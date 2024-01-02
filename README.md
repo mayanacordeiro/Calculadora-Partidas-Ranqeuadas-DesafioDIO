@@ -1,6 +1,6 @@
 ## Resolução de desafio Bootcamp Potências Tech iFood/DIO
 
-### Desafio: # Calculadora de partidas Rankeadas
+### Desafio: Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
 
 - Variáveis
